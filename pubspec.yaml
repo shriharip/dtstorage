@@ -1,8 +1,8 @@
 name: tstorage
-description: A new Flutter package project.
+description: A flutter key value file storage.
 version: 0.0.1
-author: null
-homepage: null
+author: shrihari <info@techniqally.com>
+homepage: https://github.com/shriharip/dtstorage
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
